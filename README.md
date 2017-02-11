@@ -1,7 +1,7 @@
 
 # A bash script tool to help streamline creation of new websites for Epicodus
 
-#### 8 Feb., 2017, v.1.0.0
+#### 10 Feb., 2017, v.1.0.1
 
 #### By _Mark Fisher and Clifford Grimmell_
 
