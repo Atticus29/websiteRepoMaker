@@ -11,9 +11,17 @@ This script takes three arguments from the user (repo name, parter 1 initials, a
 
 ## Setup/Installation Requirements
 
+### If working in pairs
+* _Set up you .pairs document for the day_
 * _clone this repo. (to your Desktop)_
 * _open terminal_
 * _type_ `~/Desktop/websiteRepoSetup/./websiteRepoSetup.sh [yourRepoName] [partner1Initials] [partner2Initials]`
+* _enjoy_
+
+### If working alone
+* _clone this repo. (to your Desktop)_
+* _open terminal_
+* _type_ `~/Desktop/websiteRepoSetup/./websiteRepoSetupIndivid.sh [yourRepoName] ["Your first and last name in quotes"] [yourEmailAddress]
 * _enjoy_
 
 
