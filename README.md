@@ -15,7 +15,8 @@ This script takes three arguments from the user (repo name, parter 1 initials, a
 * _Set up you .pairs document for the day_
 * _clone this repo. (to your Desktop)_
 * _open terminal_
-* _type_ `~/Desktop/websiteRepoSetup/./websiteRepoSetup.sh [yourRepoName] [partner1Initials] [partner2Initials]`
+* _navigate to the websiteRepoSetup directory: `cd ~/Desktop/websiteRepoSetup`. This step is necessary because template files from websiteRepoSetup will need to be copied._
+* _type_ `./websiteRepoSetup.sh [yourRepoName] [partner1Initials] [partner2Initials]`
 * _enjoy_
 
 ### If working alone
