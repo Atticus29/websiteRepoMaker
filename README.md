@@ -21,7 +21,8 @@ This script takes three arguments from the user (repo name, parter 1 initials, a
 ### If working alone
 * _clone this repo. (to your Desktop)_
 * _open terminal_
-* _type_ `~/Desktop/websiteRepoSetup/./websiteRepoSetupIndivid.sh [yourRepoName] ["Your first and last name in quotes"] [yourEmailAddress]
+* _navigate to the websiteRepoSetup directory: `cd ~/Desktop/websiteRepoSetup`. This step is necessary because template files from websiteRepoSetup will need to be copied._
+* _type_ `./websiteRepoSetupIndivid.sh [yourRepoName] ["Your first and last name in quotes"] [yourEmailAddress]
 * _enjoy_
 
 
