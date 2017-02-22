@@ -65,7 +65,15 @@ Please feel free to contact mark.aaron.fisher@gmail.com for questions
 ## Technologies Used
 
 * bash
-* git
+* git v. 2.11.1
+
+### Template
+* git v. 2.11.1
+* html5
+* bootstrap v. 3.3.7
+* CSS
+* javaScript
+* jQuery v. 3.1.1
 
 ### License
 
