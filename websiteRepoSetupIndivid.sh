@@ -6,7 +6,8 @@ mkdir ~/Desktop/$1/img
 mkdir ~/Desktop/$1/js
 touch ~/Desktop/$1/css/styles.css
 touch ~/Desktop/$1/index.html
-touch ~/Desktop/$1/js/scripts.js
+# touch ~/Desktop/$1/js/scripts.js
+cp ./scripts.js ~/Desktop/$1/js/
 cp ./index.html ~/Desktop/$1/
 cd ~/Desktop/$1
 git init
