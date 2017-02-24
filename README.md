@@ -11,13 +11,15 @@ This script takes three arguments from the user (repo name, parter 1 initials, a
 
 ### Specifications
 
-* The program should return __ when __.
-  * **Input Example**: 
-  * **Output Example**:
-
-* The program should return __ when __.
-  * **Input Example**: 
-  * **Output Example**:
+|Behavior|Input|Output|
+|:---:|:---:|:---:|
+|Get input text from the user and save as a string variable in front end|"evil User123!!!?"|`var usrInput = "evil Usersz123!!!?"`|
+||||
+||||
+||||
+||||
+||||
+||||
 
 ## Setup/Installation Requirements
 
@@ -46,8 +48,8 @@ This script takes three arguments from the user (repo name, parter 1 initials, a
     * On a Mac, this would be in the Applications/Utilities directory, and is called, "Terminal"
     * Windows uses a Terminal program as well, but a Terminal with all the capabilities we'll require is not installed by default. Thankfully, we can easily download and install a Terminal program that does fit our needs.
 There are many options available, but we recommend using a terminal program called git bash. You can download this free program at [msysgit.github.io](https://git-for-windows.github.io/).
-  * Clone this track survey repository by typing, `git clone https://github.com/Atticus29/TrackSuggester.git` 
-* Download 
+  * Clone this track survey repository by typing, `git clone https://github.com/Atticus29/TrackSuggester.git`
+* Download
   * Click [here](https://github.com/Atticus29/_repoNameHere_/archive/master.zip) to download the repo
   * Unzip the zipped repository
 * Open the TrackSuggester folder and double-click on index.html.
